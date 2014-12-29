@@ -11,6 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php echo 'Esto es una prueba de versionamiento'?>
-        <?php echo 'esto es la primera linea que agrego desde netbeans'?>
+        <?php echo 'Esto es la primera linea que agrego desde netbeans'?>
+        <?php echo 'Esta linea se agrego desde ubuntu'?>
     </body>
 </html>
